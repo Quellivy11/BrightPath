@@ -1,0 +1,33 @@
+# Part 1 Submission Checklist
+
+- [ ] Cover page completed with subject name and code.
+- [ ] Full name, student number and group added.
+- [ ] Document uses Aptos 11-point font.
+- [ ] Document uses 1.5 line spacing.
+- [ ] Table of Contents added and updated.
+- [ ] Two project proposals included in the initial proposal submission.
+- [ ] BrightPath proposal selected for development after lecturer approval.
+- [ ] Organisation history, mission, vision and target audience documented.
+- [ ] Website goals, objectives and KPIs documented.
+- [ ] Proposed features and functionality documented.
+- [ ] Design: colours, typography, layout and UX documented.
+- [ ] Low-fidelity wireframes included.
+- [ ] Technical requirements documented.
+- [ ] Timeline and milestones documented.
+- [ ] Realistic budget documented.
+- [ ] Proposal-specific references included.
+- [ ] Research ZIP prepared with content and sources.
+- [ ] Five required HTML pages created.
+- [ ] Semantic HTML used.
+- [ ] Researched/original content integrated.
+- [ ] Navigation works across all five pages.
+- [ ] Code commented where appropriate.
+- [ ] Code indented and readable.
+- [ ] Website tested in at least two browsers.
+- [ ] GitHub repository created according to lecturer instructions.
+- [ ] Descriptive commits made.
+- [ ] README.md completed.
+- [ ] Sitemap included in README.
+- [ ] Changelog started.
+- [ ] References included in README/research folder.
+- [ ] GitHub repository link ready for submission.
